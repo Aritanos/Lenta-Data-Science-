@@ -9,10 +9,10 @@
 - **Сергей Бредис**
 
 ## Содержание репозитория
-- [lenta-hackathon-demand-forecasting.ipynb](https://github.com/aminaadzhieva/lenta-hackathon-demand-forecasting/blob/develop/lenta-hackathon-demand-forecasting%20(8).ipynb) - EDA, обучение модели, предсказание 
-- [submission.csv](https://github.com/aminaadzhieva/lenta-hackathon-demand-forecasting/blob/develop/sales_submission.csv)
+- [lenta-hackathon-demand-forecasting.ipynb](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/lenta-hackathon-demand-forecasting.ipynb) - EDA, обучение модели, предсказание 
+- [submission.csv](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/sales_submission.csv)
 - `lenta`:
-  - `ml` - [скрипт предсказания](https://github.com/aminaadzhieva/lenta-hackathon-demand-forecasting/blob/develop/lenta/ml/model.py), скрипт переобучения модели, [обученная модель](https://github.com/aminaadzhieva/lenta-hackathon-demand-forecasting/blob/develop/lenta/ml/lgbm_model.pkl)
+  - `ml` - [скрипт предсказания](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/lenta/ml/model.py), [скрипт переобучения модели](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/lenta/ml/retraining.py), [обученная модель](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/lenta/ml/lgbm_model.pkl)
   - `backend` - [скрипт для запуска модели](https://github.com/aminaadzhieva/lenta-hackathon-demand-forecasting/blob/develop/lenta/backend/app.py)
 
 ## Инструкция по запуску на локальной машине.
