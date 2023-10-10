@@ -13,7 +13,7 @@
 - [submission.csv](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/sales_submission.csv)
 - `lenta`:
   - `ml` - [скрипт предсказания](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/lenta/ml/model.py), [скрипт переобучения модели](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/lenta/ml/retraining.py), [обученная модель](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/lenta/ml/lgbm_model.pkl)
-  - `backend` - [скрипт для запуска модели](https://github.com/aminaadzhieva/lenta-hackathon-demand-forecasting/blob/develop/lenta/backend/app.py)
+  - `backend` - [скрипт для запуска модели](https://github.com/Aritanos/Lenta-Data-Science-/blob/main/lenta/backend/app.py)
 
 ## Инструкция по запуску на локальной машине.
 
